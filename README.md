@@ -1,0 +1,9 @@
+# pfsense-darker
+
+A darker theme for pfSense, which also makes link text more readable. Based on pfSense-dark.css.
+
+All original work copyright (c) 2016-2020 Rubicon Communications, LLC (Netgate)
+
+I make no claims to ownership. Licensed under the Apache License, Version 2.0 (http://www.apache.org/licenses/LICENSE-2.0).
+
+![Image of pfSense-darker](https://i.imgur.com/sZyp15P.png)
